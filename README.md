@@ -4,7 +4,7 @@ Exploring a variety of machine learning classification methods using python scie
 The overarching goal of this project is to create a convulational network that aims to recognize the digits from 0 to 9, with at least 95% accuracy. The MNIST digit dataset is used to train and test the CNN.
 
 
-##Table of Contents
+## Table of Contents
 - [How to Run](#how-to-run)
 - [Libraries](#libraries)
 - [Jupyter Notebook](#jupyter-notebook)
